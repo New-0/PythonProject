@@ -33,4 +33,5 @@ print(num1, '/', num2, '=', result)
 result = sqaure_func(num1)
 print(num1, '**', '2', '=', result)
 
+print('**^^**')
 
